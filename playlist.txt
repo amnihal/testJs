@@ -1,1 +1,1 @@
-https://cdn.jsdelivr.net/gh/amnihal/testJs@main/tvfile.mp4|https://github.com/amnihal/testJs/releases/download/v1.0.0/tv10.mp4|https://github.com/amnihal/testJs/releases/download/v1.0.0/tv10.mp4
+https://cdn.jsdelivr.net/gh/amnihal/testJs@main/tvfile.mp4|https://github.com/amnihal/testJs/releases/download/v1.0.0/tv10.mp4|https://cdn.jsdelivr.net/gh/amnihal/testJs@main/tvfile.mp4
